@@ -1,0 +1,26 @@
+7-8
+10-12
+2-4
+6-8
+
+25 - manual
+26 - general,sql
+27 - java
+28 - revise - manual,general,sql
+1 - selenium
+2 - revise - java, selenium
+3  - java programs
+4  - ci cd, Jenkins,maven,testng
+5  - framework,versions
+6  - revise - java programs
+
+7  - postman
+8  - postman questions
+9  - framework edit,log4j? 
+
+10  - revise - manual,general,sql
+11  - revise - java,selenium
+12 - revise - programs,ci/cd,Jenkins,maven,testng
+13 - revise - framework and versions
+14 - revise - postman
+
